@@ -1,3 +1,3 @@
 <?php wp_head(); ?>
-<p>API</p>
+<p>API 2</p>
 <?php wp_footer(); ?>
